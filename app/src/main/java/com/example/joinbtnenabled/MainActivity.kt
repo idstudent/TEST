@@ -19,6 +19,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         focusChangeTextView()
+        //test 주석
     }
 
     override fun onResume() {
